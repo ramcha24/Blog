@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World"
 date:   2016-09-07 12:38:18 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hello there! This is my first blog post. Over the years, I have taken some classes, skipped few lectures, read a couple of books, also had the usual amount of human and computer interactions. As a result, I have formulated some opinions, styles and preferences. I seem to take notes in a certain way when I read. I seem to process information in a certain way. I would like to think its unique, but even if not, I think its an expression of personality in itself. Now looking at it in a meta-way, it feels like a creative process to go through my understanding and put it into words. 
 
-Jekyll also offers powerful support for code snippets:
+My thoughts and personality will dynamically evolve with every new experience. So I might contradict myself later on what I find to not be interesting. Usually at some point in future I realise that something I didn't pay attention too earlier was actually quite fascinating. So any dismissive ideas are to be taken with a pinch of salt.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I am currently pursuing a Msc in Mathematics and B.E. in Computer Science (yes at the same time and in parallel) from BITS Pilani, Goa Campus. BITS has its own distinctive stlye of education, opportunities and trapdoors. It has given me the both chance and punishment of learning extremely varied topics. I actually had a semester where I was required to do "Functional Analysis" ,a very abstract of Mathematics course and "MicroProcessors and Interfacing" , a very practical Computer Science course. At some point I went berserk and lost the plot trying to switch moods and stick to their schedules and evaluations. 
 
-{% gist ramcha24/39974f8f63deff820fda0ab0eeb6a94e %}
+But, both of them were quite interesting and my real regret is I could have done more justice to them. I want to escape from the predictable schedule and sequence of a college student - lectures, anxiety, tests, relief,  grades, sadness. So here I am, I have chosen to just read and learn what I can and feel like and ensure that I satisfy myself on the little things that I do learn and not the entire bunch I am supposed to. 
+
+Off we go...
 
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
