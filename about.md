@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my personal space where I intend to discuss ideas I found interesting. They are usually mathematical in nature with a hint of programming. 
+By day, I am a regular student studying Math and CS. But I transform to someone curious and enthusiastic by night. Hence the name. 
+Enjoy your stay. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find more information about me from my [academic website](https://ramcha24.github.io)
