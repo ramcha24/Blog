@@ -10,7 +10,7 @@ title: Ramcha's Blog
 email: ramcha1994@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal space where I intend to discuss ideas I find interesting.    
-baseurl: /Blog
+baseurl: /blog
 github_username:  ramcha24
 
 # Build settings
