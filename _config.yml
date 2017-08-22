@@ -15,5 +15,7 @@ github_username:  ramcha24
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 gems:
   - jekyll-gist
