@@ -15,5 +15,5 @@ But, both of them were quite interesting and my real regret is I could have done
 
 Off we go...
 
-\(a^2 + b^2 = c^2\) --> note that all equations between these tags will not need escaping! 
+$$ a^2 + b^2 = c^2 $$ --> note that all equations between these tags will not need escaping! 
 
