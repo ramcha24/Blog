@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-09-07 12:38:18 +0530
+date:   2017-08-22 8:35:00
 categories: jekyll update
+visible : true
 ---
 
 Hello there! This is my first blog post. Over the years, I have taken some classes, skipped few lectures, read a couple of books, also had the usual amount of human and computer interactions. As a result, I have formulated some opinions, styles and preferences. I seem to take notes in a certain way when I read. I seem to process information in a certain way. I would like to think its unique, but even if not, I think its an expression of personality in itself. Now looking at it in a meta-way, it feels like a creative process to go through my understanding and put it into words. 
