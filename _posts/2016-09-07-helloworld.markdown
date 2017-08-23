@@ -13,9 +13,10 @@ I am currently pursuing a Msc in Mathematics and B.E. in Computer Science (yes a
 
 But, both of them were quite interesting and my real regret is I could have done more justice to them. I want to escape from the predictable schedule and sequence of a college student - lectures, anxiety, tests, relief,  grades, sadness. So here I am, I have chosen to just read and learn what I can and feel like and ensure that I satisfy myself on the little things that I do learn and not the entire bunch I am supposed to. 
 
+$$a^2 + b^2 = c^2$$
+
 Off we go...
 
 \\( a^2 + b^2 = c^2 \\) --> note that all equations between these tags will not need escaping! 
 
 
-$$a^2 + b^2 = c^2$$
