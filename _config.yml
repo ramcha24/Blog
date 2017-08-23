@@ -5,6 +5,7 @@ author:      Ramchandran Muthukumar
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal space where I intend to discuss ideas I find interesting.    
 baseurl: /blog
+url:  "https://ramcha24.github.io/blog"
 date_format: "%b %-d, %Y"
 timezone:    America/New_York
 
